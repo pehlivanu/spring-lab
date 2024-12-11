@@ -1,8 +1,0 @@
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/RewardNetworkTests.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/RewardNetworkImplTests.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubRewardRepository.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubAccountRepository.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/StubRestaurantRepository.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/account/AccountTests.java
-/home/liviu/Desktop/lab/34-spring-data-jpa/src/test/java/rewards/internal/restaurant/RestaurantTests.java
