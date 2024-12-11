@@ -31,3 +31,7 @@ Thumbs.db
 
 # Ignore test reports
 **/surefire-reports/
+
+# Ignore Maven and Gradle directories
+.mvn/
+.gradle/
