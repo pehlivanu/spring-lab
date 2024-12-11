@@ -1,0 +1,11 @@
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/StubAccountRepository.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/SystemTestConfig.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/account/AccountTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/StubRewardRepository.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/RewardNetworkTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/home/liviu/Desktop/lab/26-jdbc/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
