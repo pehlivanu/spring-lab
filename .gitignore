@@ -1,0 +1,33 @@
+# Ignore Maven target directory
+target/
+
+# Ignore build output directories
+**/target/
+**/out/
+
+# Ignore IDE-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled class files
+*.class
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore test reports
+**/surefire-reports/
