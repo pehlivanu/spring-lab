@@ -22,7 +22,7 @@ import common.money.MonetaryAmount;
  * Besides helping catch bugs early, tests are a great way for a new developer to learn an API as he or she can see the
  * API in action. Tests also help validate a design as they are a measure for how easy it is to use your code.
  */
-public class RewardNetworkImplTests {
+class RewardNetworkImplTests {
 
 	/**
 	 * The object being tested.
@@ -30,7 +30,7 @@ public class RewardNetworkImplTests {
 	private RewardNetworkImpl rewardNetwork;
 
 	@BeforeEach
-	public void setUp() throws Exception {
+	void setUp() {
 		// create stubs to facilitate fast in-memory testing with dummy data and no external dependencies
 		AccountRepository accountRepo = new StubAccountRepository();
 		RestaurantRepository restaurantRepo = new StubRestaurantRepository();
@@ -41,7 +41,7 @@ public class RewardNetworkImplTests {
 	}
 
 	@Test
-	public void testRewardForDining() {
+	void testRewardForDining() {
 		// create a new dining of 100.00 charged to credit card '1234123412341234' by merchant '123457890' as test input
 		Dining dining = Dining.createDining("100.00", "1234123412341234", "1234567890");
 
